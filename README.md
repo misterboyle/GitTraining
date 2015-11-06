@@ -12,7 +12,7 @@ here's some things.
 *Italics!*
 
 Some more changes.
-Markdown is boring.
+Markdown is awesome!
 This looks like fun.
 
 
